@@ -21,7 +21,7 @@ To view the webpage follow the link
 
 Screenshot of live page (sample)
 
-![ScreenShot](assets/images/screenshot.PNG)
+![ScreenShot](assets/images/Screenshot.PNG)
  
    
 ## Credits
