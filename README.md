@@ -3,7 +3,7 @@
 ## Introducing my first website showcasing my portfolio
 
 ### What was my motivation?
-I need to showcase what I have learnt and build a website with %100 of my own code.
+I need to showcase what I have learnt and build a website with 100% of my own code.
 
 ### What did I do?
 
